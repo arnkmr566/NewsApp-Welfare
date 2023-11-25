@@ -1,7 +1,6 @@
 package com.example.newsapp;
 
-import android.view.View;
-import android.webkit.WebResourceRequest;
+
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
